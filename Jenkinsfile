@@ -18,10 +18,6 @@ pipeline {
             }
         }
         
-       stage('integarting') {
-            steps {
-                echo 'Integarting....'
-            }
-        }
+       
     }
 }
